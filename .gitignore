@@ -3,3 +3,6 @@ init.bat
 
 # data
 records/
+
+#env
+.env
