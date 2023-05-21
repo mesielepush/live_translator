@@ -3,6 +3,8 @@ init.bat
 
 # data
 records/
+transcripts/
 
 #env
 .env
+
