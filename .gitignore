@@ -1,10 +1,49 @@
 # jupyter 
 init.bat
+.ipynb_checkpoints/
 
 # data
 records/
 transcripts/
+voices/
+translated_voice/
+__pycache__/
 
 #env
 .env
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
