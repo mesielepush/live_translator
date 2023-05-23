@@ -26,7 +26,8 @@ def transcribe():
     print('Transcribe started')
     while True:
         if len(os.listdir('records')) == 0:
-            time.sleep(5)
+            time.sleep(1)
+            continue
         else:
             current_file = get_next_file()
             transcript = make_transcript(current_file)

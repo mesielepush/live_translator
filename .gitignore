@@ -4,10 +4,14 @@ init.bat
 
 # data
 records/
+temp/
 transcripts/
 voices/
 translated_voice/
+usages/
+voices/
 __pycache__/
+.ipynb_checkpoints/
 
 #env
 .env
