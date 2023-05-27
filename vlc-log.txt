@@ -1,0 +1,12 @@
+﻿-- logger module started --
+main: one instance mode ENABLED
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mp4 warning: elst box found
+mp4 warning: STTS table of 1 entries
+mp4 warning: CTTS table of 20692 entries
+mp4 warning: STTS table of 1 entries
+faad warning: decoded zero sample
+d3d11va warning: not enough decoding slices in the texture (6/24)
+avcodec: Using D3D11VA (NVIDIA GeForce GTX 1070, vendor 10de(NVIDIA), device 1b81, revision a1) for hardware decoding
+direct3d11 error: SetThumbNailClip failed: 0x800706f4
+-- logger module stopped --

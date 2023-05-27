@@ -2,6 +2,9 @@
 init.bat
 .ipynb_checkpoints/
 
+# vs code
+.vscode
+
 # data
 records/
 temp/
